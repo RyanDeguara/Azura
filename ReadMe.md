@@ -13,12 +13,12 @@ Student Number: C20309873
 2. Prompt a query to Azura, for example: "What is the weather in Ireland?"
 3. A response is then outputted
 
-##Description:
+## Description:
 Employs a client-server paradigm, server should be booted up to do classification processing
 in the back.
 Client engine can then be ran, 
 
-##Structure:
+## Structure:
 Consists of four main modules: 
 1. Wake Word - Prompting Azura with wake word - "Hey Azura"
 2. Speech Recognition - Prompting Azura with user query - "What's the weather in Ireland"
@@ -68,7 +68,7 @@ Server
    - lstm_model.h5
 ```
    
-##Requirements:
+## Requirements:
 
 ```
 - python3
